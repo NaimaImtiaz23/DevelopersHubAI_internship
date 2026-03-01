@@ -132,11 +132,7 @@ Heart Disease UCI Dataset
 - API-based data fetching
 - Time-series aware data splitting
 
----
-
+-
 # Conclusion
 
 These tasks demonstrate practical implementation of machine learning workflows including data exploration, predictive modeling, evaluation, and visualization. The projects reflect foundational AI/ML engineering skills required for real-world applications.
----
-
-# Repository Structure
